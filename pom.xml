@@ -39,7 +39,7 @@
 <password>Welcome(AL(134​​​​​</password>
 <!-- Environment Parameter -->
 <environment>Sandbox</environment>
-<applicationName>Mulesoft​​​​​</applicationName>
+<applicationName>CICDDemo</applicationName>
 <workerType>MICRO</workerType>
 </cloudHubDeployment>
 				</configuration>
